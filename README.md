@@ -10,9 +10,10 @@ Entre em contato:
 <a href= "https://www.facebook.com/iHipNoTiCz"><img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="html-logo-face">
 <br>
 <a href= "https://www.linkedin.com/in/kevin-rodrigues-vitorassi-074a06233?original_referer=https%3A%2F%2Fwww.google.com%2F"/><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html-linkendin">
-
-
-[![iHipNoTiCz](https://github-readme-stats.vercel.app/api?username=iHipNoTiCz)](https://github.com/iHipNoTiCz/github-readme-stats)
+ <br> 
+ <img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt= "html-logo-C" style = "border-radius:30px;">
+<br>
+[![iHipNoTiCz](https://github-readme-stats.vercel.app/api?username=KevinRodriguesVitorassi)](https://github.com/KevinRodriguesVitorassi/github-readme-stats)
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=iHipNoTiCz)
+![](https://komarev.com/ghpvc/?username=KevinRodriguesVitorassi)
