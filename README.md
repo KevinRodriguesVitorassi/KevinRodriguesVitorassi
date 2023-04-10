@@ -1,16 +1,18 @@
-### Hi there 👋
+###👋 ----- Olá ------ 👋###
 
-<!--
-**iHipNoTiCz/iHipNoTiCz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Eu sou Kevin Rodrigues Vitorassi 🙂</h3>
 
-Here are some ideas to get you started:
+Entre em contato:
+<br>
+<br>
+<a href= "https://api.whatsapp.com/send?phone=5527999917904&text=Ola!%20Vamos%20Programar!"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="html-logo-WhatsApp"> 
+<br>
+<a href= "https://www.facebook.com/iHipNoTiCz"><img src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="html-logo-face">
+<br>
+<a href= "https://www.linkedin.com/in/kevin-rodrigues-vitorassi-074a06233?original_referer=https%3A%2F%2Fwww.google.com%2F"/><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html-linkendin">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![iHipNoTiCz](https://github-readme-stats.vercel.app/api?username=iHipNoTiCz)](https://github.com/iHipNoTiCz/github-readme-stats)
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=iHipNoTiCz)
